@@ -44,7 +44,6 @@ data_info = ['安娜', 18, 178, 64, True]
 
 # 列表声明的两种方式
 
-# 1.通过字面量进行声明
 list_data_1 = []
 list_data_2 = list()
 print(list_data_1,list_data_2)
