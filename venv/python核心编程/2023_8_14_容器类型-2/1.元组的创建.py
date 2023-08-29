@@ -8,5 +8,15 @@
     类似于列表，元组不能被修改
 '''
 
-data = (1, 2, 3)
-print(type(data))
+data_1 = (1, 2, 3)
+print(type(data_1))
+
+data_2=('1',)
+print(type(data_2))
+
+
+# 创建空元组
+data_3 = ()
+print(type(data_3))
+data_4 = tuple()
+print(type(data_4))
